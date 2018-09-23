@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"apiDoc Autocompletion",
+		"Comment-Snippets",
+		"DocBlockr",
+		"Emmet",
+		"FileManager",
+		"Format JSDoc @params",
+		"JSLint",
+		"Laravel 5 Snippets",
+		"Material Theme",
+		"Nodejs",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-phplint"
+	]
+}
